@@ -1,119 +1,144 @@
 [
     {
-        "issue": "2",
+        "issue": "10",
         "issued": {
             "date-parts": [
                 [
-                    1932,
-                    2
+                    2016
                 ]
             ]
         },
-        "container-title": "Journal of Experimental Zoology",
+        "container-title": "Ecography",
         "author": [
             {
-                "family": "Allee",
-                "given": "W. C."
+                "family": "Gray",
+                "given": "Sarah M."
             },
             {
-                "family": "Bowen",
-                "given": "Edith S."
-            }
-        ],
-        "id": "Allee1932StuAni",
-        "DOI": "10.1002/jez.1400610202",
-        "volume": "61",
-        "page": "185-207",
-        "title": "Studies in animal aggregations: Mass protection against colloidal silver among goldfishes",
-        "type": "article-journal"
-    },
-    {
-        "volume": "15",
-        "author": [
-            {
-                "family": "Camerano",
-                "given": "Lorenzo"
-            }
-        ],
-        "id": "Camerano1880EquViv",
-        "page": "393-414",
-        "title": "Dell’equilibrio dei viventi merce la reciproca distruzione",
-        "issued": {
-            "date-parts": [
-                [
-                    1880
-                ]
-            ]
-        },
-        "container-title": "Atti Della R. Accad. Delle Sci. Torino",
-        "type": "article-journal"
-    },
-    {
-        "publisher": "University of Chicago Press",
-        "author": [
-            {
-                "family": "Elton",
-                "given": "Charles S"
-            }
-        ],
-        "id": "Elton1927AniEco",
-        "title": "Animal ecology",
-        "issued": {
-            "date-parts": [
-                [
-                    1927
-                ]
-            ]
-        },
-        "type": "book"
-    },
-    {
-        "volume": "41",
-        "author": [
-            {
-                "family": "Fahrenholz",
-                "given": "H."
-            }
-        ],
-        "id": "Fahrenholz1913EctUnd",
-        "page": "371-374",
-        "title": "Ectoparasiten und abstammungslehre",
-        "issued": {
-            "date-parts": [
-                [
-                    1913
-                ]
-            ]
-        },
-        "container-title": "Zool. Anz.",
-        "type": "article-journal"
-    },
-    {
-        "issue": "3",
-        "issued": {
-            "date-parts": [
-                [
-                    1935,
-                    9
-                ]
-            ]
-        },
-        "container-title": "Proceedings of the Zoological Society of London",
-        "author": [
-            {
-                "family": "Nicholson",
-                "given": "A. J."
+                "family": "Poisot",
+                "given": "Timothée"
             },
             {
-                "family": "Bailey",
-                "given": "V. A."
+                "family": "Harvey",
+                "given": "Eric"
+            },
+            {
+                "family": "Mouquet",
+                "given": "Nicolas"
+            },
+            {
+                "family": "Miller",
+                "given": "Thomas E."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
             }
         ],
-        "id": "Nicholson1935BalAni",
-        "DOI": "10.1111/j.1096-3642.1935.tb01680.x",
-        "volume": "105",
-        "page": "551-598",
-        "title": "The Balance of Animal Populations..",
+        "id": "Gray2016TemTro",
+        "DOI": "10.1111/ecog.01748",
+        "volume": "39",
+        "page": "981-989",
+        "title": "Temperature and trophic structure are driving microbial productivity along a biogeographical gradient",
+        "type": "article-journal"
+    },
+    {
+        "issue": "n/a",
+        "issued": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        },
+        "container-title": "Journal of Ecology",
+        "author": [
+            {
+                "family": "Harris",
+                "given": "Timothy"
+            },
+            {
+                "family": "Ottaviani",
+                "given": "Gianluigi"
+            },
+            {
+                "family": "Mulligan",
+                "given": "Mark"
+            },
+            {
+                "family": "Brummitt",
+                "given": "Neil"
+            }
+        ],
+        "id": "Harris2022TraHyp",
+        "DOI": "10.1111/1365-2745.14005",
+        "volume": "n/a",
+        "title": "Trait hypervolumes based on natural history collections can detect ecological strategies that are distinct to biogeographic regions",
+        "type": "article-journal"
+    },
+    {
+        "publisher": "Nature Publishing Group",
+        "issue": "6988",
+        "publisher-place": "London, United States",
+        "issued": {
+            "date-parts": [
+                [
+                    2004,
+                    5,
+                    13
+                ]
+            ]
+        },
+        "container-title": "Nature",
+        "author": [
+            {
+                "family": "Ives",
+                "given": "Anthony R."
+            },
+            {
+                "family": "Cardinale",
+                "given": "Bradley J."
+            }
+        ],
+        "id": "Ives2004FooInt",
+        "DOI": "10.1038/nature02515",
+        "volume": "429",
+        "page": "174-7",
+        "title": "Food-web interactions govern the resistance of communities after non-random extinctions",
+        "type": "article-journal"
+    },
+    {
+        "publisher": "Nature Publishing Group",
+        "issue": "6",
+        "publisher-place": "London, United States",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    6
+                ]
+            ]
+        },
+        "container-title": "Nature Ecology & Evolution",
+        "author": [
+            {
+                "family": "Thompson",
+                "given": "Patrick L."
+            },
+            {
+                "family": "Link to external site",
+                "given": "this",
+                "dropping-particle": "link will open in a new window"
+            },
+            {
+                "family": "Gonzalez",
+                "given": "Andrew"
+            }
+        ],
+        "id": "Thompson2017DisGova",
+        "DOI": "10.1038/s41559-017-0162",
+        "volume": "1",
+        "title": "Dispersal governs the reorganization of ecological networks under environmental change",
         "type": "article-journal"
     }
 ]
