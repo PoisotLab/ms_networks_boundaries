@@ -6,30 +6,22 @@
         "Université de Montréal",
         "Québec Centre for Biodiversity Sciences"
       ],
+      "familyname": "Strydom",
+      "givennames": "Tanya",
+      "email": "tanya.strydom@umontreal.ca",
+      "orcid": "0000-0001-6067-1349",
+      "status": ["equal"]
+    },
+    {
+      "affiliations": [
+        "Université de Montréal",
+        "Québec Centre for Biodiversity Sciences"
+      ],
       "familyname": "Poisot",
       "givennames": "Timothée",
       "email": "timothee.poisot@umontreal.ca",
       "orcid": "0000-0002-0735-5184",
       "status": ["corresponding", "equal"]
-    },
-    {
-      "affiliations": [
-        "Inn of the Prancing Pony",
-        "Fellowship of the Ring"
-      ],
-      "familyname": "Took",
-      "givennames": "Peregrin",
-      "email": "pippin@took.shire"
-    },
-    {
-      "affiliations": [
-        "Green Dragon Inn",
-        "Fellowship of the Ring"
-      ],
-      "familyname": "Brandybuck",
-      "givennames": "Merriadoc",
-      "email": "merry@fellowship.ring",
-      "status": ["equal"]
     }
   ],
   "abstract": {
