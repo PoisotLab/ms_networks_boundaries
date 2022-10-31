@@ -40,5 +40,5 @@
     "pandoc-crossref",
     "github actions"
   ],
-  "citationstyle": "ecology-letters"
+  "citationstyle": "methods-in-ecology-and-evolution"
 }
