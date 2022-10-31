@@ -32,11 +32,12 @@
       "status": ["equal"]
     }
   ],
-  "abstract": "I like geography best, he said, because your mountains & rivers know the secret. Pay no attention to boundaries. - Brian Andreas",
+  "abstract": "I like geography best, he said, because your mountains & rivers know the secret. Pay no attention to boundaries. - Brian Andreas.",
   "keywords": [
-    "pandoc",
-    "pandoc-crossref",
-    "github actions"
+    "spatial wombling",
+    "edge detection",
+    "boundaries",
+    "spatial ecology"
   ],
   "citationstyle": "ecology-letters"
 }
