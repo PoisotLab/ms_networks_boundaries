@@ -25,13 +25,14 @@
     }
   ],
   "abstract" { 
-  "Purpose": "I like geography best, he said, because your mountains & rivers know the secret. Pay no attention to boundaries. - Brian Andreas."
-  },
-  "keywords": [
-    "spatial wombling",
-    "edge detection",
-    "boundaries",
-    "spatial ecology"
-  ],
-  "citationstyle": "ecology-letters"
+  "Purpose": "I like geography best, he said, because your mountains & rivers know the secret. Pay no attention to boundaries. - Brian Andreas.",
+  "Motivation": "It makes collaborating on text with GitHub easier, and means that we never need to think about the output.",
+  "Internals": "GitHub actions and a series of python scritpts. The markdown is handled with `pandoc`."
+},
+"keywords": [
+  "pandoc",
+  "pandoc-crossref",
+  "github actions"
+],
+"citationstyle": "ecology-letters"
 }
