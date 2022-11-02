@@ -1,5 +1,10 @@
 [
     {
+        "id": "FooWeb",
+        "title": "Food-web structure of willow-galling sawflies and their natural enemies across Europe - Kopelke - 2017 - Ecology - Wiley Online Library",
+        "type": "webpage"
+    },
+    {
         "issue": "10",
         "issued": {
             "date-parts": [
@@ -105,6 +110,31 @@
         "volume": "429",
         "page": "174-7",
         "title": "Food-web interactions govern the resistance of communities after non-random extinctions",
+        "type": "article-journal"
+    },
+    {
+        "publisher": "EcoEvoRxiv",
+        "author": [
+            {
+                "family": "Strydom",
+                "given": "Tanya"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timothée"
+            }
+        ],
+        "id": "Strydom2022SpaJl",
+        "title": "SpatialBoundaries.jl: Edge detection using spatial wombling",
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    9,
+                    7
+                ]
+            ]
+        },
         "type": "article-journal"
     },
     {
