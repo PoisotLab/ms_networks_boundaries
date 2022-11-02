@@ -7,3 +7,4 @@ abstract.json
 .vscode
 .assets/*csl
 Manifest.toml
+.DS_Store
