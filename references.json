@@ -1,10 +1,5 @@
 [
     {
-        "id": "FooWeb",
-        "title": "Food-web structure of willow-galling sawflies and their natural enemies across Europe - Kopelke - 2017 - Ecology - Wiley Online Library",
-        "type": "webpage"
-    },
-    {
         "issue": "10",
         "issued": {
             "date-parts": [
@@ -110,6 +105,49 @@
         "volume": "429",
         "page": "174-7",
         "title": "Food-web interactions govern the resistance of communities after non-random extinctions",
+        "type": "article-journal"
+    },
+    {
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "container-title": "Ecology",
+        "author": [
+            {
+                "family": "Kopelke",
+                "given": "Jens-Peter"
+            },
+            {
+                "family": "Nyman",
+                "given": "Tommi"
+            },
+            {
+                "family": "Cazelles",
+                "given": "Kévin"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Vissault",
+                "given": "Steve"
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            }
+        ],
+        "id": "Kopelke2017FooStr",
+        "DOI": "10.1002/ecy.1832",
+        "volume": "98",
+        "page": "1730-1730",
+        "title": "Food-web structure of willow-galling sawflies and their natural enemies across Europe",
         "type": "article-journal"
     },
     {
