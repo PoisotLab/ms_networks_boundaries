@@ -151,6 +151,30 @@
         "type": "article-journal"
     },
     {
+        "issue": "5901",
+        "issued": {
+            "date-parts": [
+                [
+                    1983,
+                    2
+                ]
+            ]
+        },
+        "container-title": "Nature",
+        "author": [
+            {
+                "family": "May",
+                "given": "Robert M."
+            }
+        ],
+        "id": "May1983EcoStr",
+        "DOI": "10.1038/301566a0",
+        "volume": "301",
+        "page": "566-568",
+        "title": "Ecology: The structure of food webs",
+        "type": "article-journal"
+    },
+    {
         "publisher": "EcoEvoRxiv",
         "author": [
             {

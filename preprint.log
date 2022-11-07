@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  3 NOV 2022 06:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  7 NOV 2022 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1256,7 +1256,7 @@ Package rerunfilecheck Info: File `preprint.out' has not changed.
 Here is how much of TeX's memory you used:
  30858 strings out of 475066
  561369 string characters out of 5780777
- 888444 words of memory out of 5000000
+ 888445 words of memory out of 5000000
  51710 multiletter control sequences out of 15000+600000
  595294 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1275,7 +1275,7 @@ ist/fonts/type1/public/stix2-type1/STIX2Text-Regular.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/public/ccicons/ccicons.pfb></opt/texlive/texdir/texmf-dis
 t/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb>
-Output written on preprint.pdf (1 page, 698080 bytes).
+Output written on preprint.pdf (1 page, 698157 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
