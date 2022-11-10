@@ -1,5 +1,46 @@
 [
     {
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    4
+                ]
+            ]
+        },
+        "container-title": "Nature Communications",
+        "author": [
+            {
+                "family": "Bramon Mora",
+                "given": "Bernat"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Gilarranz",
+                "given": "Luis J."
+            },
+            {
+                "family": "Poisot",
+                "given": "Timothée"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            }
+        ],
+        "id": "BramonMora2018IdeCom",
+        "DOI": "10.1038/s41467-018-05056-0",
+        "volume": "9",
+        "page": "2603",
+        "title": "Identifying a common backbone of interactions underlying food webs from different ecosystems",
+        "type": "article-journal"
+    },
+    {
         "issue": "10",
         "issued": {
             "date-parts": [
