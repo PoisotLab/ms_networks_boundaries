@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1668070189 "draft.tex" "draft.pdf" "draft" 1668070190
+["pdflatex"] 1668519458 "draft.tex" "draft.pdf" "draft" 1668519459
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1558214095 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-mathit.enc" 1610747736 3416 3b99a05a42a4705ec5a5521d2bffa072 ""
@@ -149,9 +149,9 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1667266568 4609054 6dbf1df48b9a44882cfb75b26bca3b91 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1667266629 3058921 f65a837cc32f28d06020bf9901c28c0c ""
   "/opt/texlive/texdir/texmf.cnf" 1667266561 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "draft.aux" 1668070190 1952 64bd5416e1fa70f60a711fd41b2775ee "pdflatex"
-  "draft.out" 1668070190 683 ac31afa44cdaff1fb5b12e4350291fc0 "pdflatex"
-  "draft.tex" 1668070187 7625 c02686ef6858ff42b8758a7840f66ff5 ""
+  "draft.aux" 1668519459 1952 64bd5416e1fa70f60a711fd41b2775ee "pdflatex"
+  "draft.out" 1668519459 683 ac31afa44cdaff1fb5b12e4350291fc0 "pdflatex"
+  "draft.tex" 1668519455 7625 c02686ef6858ff42b8758a7840f66ff5 ""
   (generated)
   "draft.aux"
   "draft.log"

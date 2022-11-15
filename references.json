@@ -192,6 +192,149 @@
         "type": "article-journal"
     },
     {
+        "publisher": "Nature Publishing Group",
+        "issue": "1, 1",
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    11,
+                    14
+                ]
+            ]
+        },
+        "container-title": "Nature Communications",
+        "author": [
+            {
+                "family": "Martins",
+                "given": "Lucas P."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Blendinger",
+                "given": "Pedro G."
+            },
+            {
+                "family": "Böhning-Gaese",
+                "given": "Katrin"
+            },
+            {
+                "family": "Buitrón-Jurado",
+                "given": "Galo"
+            },
+            {
+                "family": "Correia",
+                "given": "Marta"
+            },
+            {
+                "family": "Costa",
+                "given": "José Miguel"
+            },
+            {
+                "family": "Dehling",
+                "given": "D. Matthias"
+            },
+            {
+                "family": "Donatti",
+                "given": "Camila I."
+            },
+            {
+                "family": "Emer",
+                "given": "Carine"
+            },
+            {
+                "family": "Galetti",
+                "given": "Mauro"
+            },
+            {
+                "family": "Heleno",
+                "given": "Ruben"
+            },
+            {
+                "family": "Jordano",
+                "given": "Pedro"
+            },
+            {
+                "family": "Menezes",
+                "given": "Ícaro"
+            },
+            {
+                "family": "Morante-Filho",
+                "given": "José Carlos"
+            },
+            {
+                "family": "Muñoz",
+                "given": "Marcia C."
+            },
+            {
+                "family": "Neuschulz",
+                "given": "Eike Lena"
+            },
+            {
+                "family": "Pizo",
+                "given": "Marco Aurélio"
+            },
+            {
+                "family": "Quitián",
+                "given": "Marta"
+            },
+            {
+                "family": "Ruggera",
+                "given": "Roman A."
+            },
+            {
+                "family": "Saavedra",
+                "given": "Francisco"
+            },
+            {
+                "family": "Santillán",
+                "given": "Vinicio"
+            },
+            {
+                "family": "Sanz D’Angelo",
+                "given": "Virginia"
+            },
+            {
+                "family": "Schleuning",
+                "given": "Matthias"
+            },
+            {
+                "family": "Silva",
+                "given": "Luís Pascoal",
+                "non-dropping-particle": "da"
+            },
+            {
+                "family": "Ribeiro da Silva",
+                "given": "Fernanda"
+            },
+            {
+                "family": "Timóteo",
+                "given": "Sérgio"
+            },
+            {
+                "family": "Traveset",
+                "given": "Anna"
+            },
+            {
+                "family": "Vollstädt",
+                "given": "Maximilian G. R."
+            },
+            {
+                "family": "Tylianakis",
+                "given": "Jason M."
+            }
+        ],
+        "id": "Martins2022GloReg",
+        "DOI": "10.1038/s41467-022-34355-w",
+        "volume": "13",
+        "page": "6943",
+        "title": "Global and regional ecological boundaries explain abrupt spatial discontinuities in avian frugivory interactions",
+        "type": "article-journal"
+    },
+    {
         "issue": "5901",
         "issued": {
             "date-parts": [
