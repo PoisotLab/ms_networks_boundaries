@@ -1,0 +1,13 @@
+dist/
+*.log
+*synctex*
+references.json
+affiliations.json
+abstract.json
+.vscode
+.assets/*csl
+Manifest.toml
+filename
+filename.json
+manuscript-metadata.json
+.~lock*
