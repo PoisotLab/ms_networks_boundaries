@@ -5,7 +5,7 @@
 ## Empirical networks
 
 Empirical networks were constructed from the interactions recorded by
-@Kopelke2017FooStr. This dataset consists of replicate samples of *Salix*
+@Kopelke2017Foodweb. This dataset consists of replicate samples of *Salix*
 (willow species) -- willow-galling sawfly -- predator interactions across
 Europe. Data collection spanned 29 years across 641 sites (some with repeat
 visits) revealing 1 173 links across sites and trophic levels. Sites spanned a
