@@ -2,6 +2,10 @@
 
 # Methods
 
+## Simulated networks
+
+Based loosely on work from @Thompson2017Dispersal.
+
 ## Empirical networks
 
 Empirical networks were constructed from the interactions recorded by
